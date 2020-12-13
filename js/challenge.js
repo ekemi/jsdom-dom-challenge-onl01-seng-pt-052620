@@ -7,5 +7,5 @@ setInterval(function(){
 if(timer){
   counter.innerText++;
 }
-  
+
 }, 1000)
